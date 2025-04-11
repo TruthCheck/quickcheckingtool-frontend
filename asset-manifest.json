@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/quickcheckingtool-frontend/static/css/main.65159377.css",
-    "main.js": "/quickcheckingtool-frontend/static/js/main.c956f2fb.js",
+    "main.js": "/quickcheckingtool-frontend/static/js/main.b07e7332.js",
     "index.html": "/quickcheckingtool-frontend/index.html",
     "main.65159377.css.map": "/quickcheckingtool-frontend/static/css/main.65159377.css.map",
-    "main.c956f2fb.js.map": "/quickcheckingtool-frontend/static/js/main.c956f2fb.js.map"
+    "main.b07e7332.js.map": "/quickcheckingtool-frontend/static/js/main.b07e7332.js.map"
   },
   "entrypoints": [
     "static/css/main.65159377.css",
-    "static/js/main.c956f2fb.js"
+    "static/js/main.b07e7332.js"
   ]
 }
